@@ -2,9 +2,9 @@
 C++ 2D video game based on SFML library
 
 # Screenshots
-![alt text](https://github.com/Flowx08/GeometricRain/raw/master/screens/Screen1.png "screenshot 1")
-![alt text](https://github.com/Flowx08/GeometricRain/raw/master/screens/Screen2.png "screenshot 2")
-![alt text](https://github.com/Flowx08/GeometricRain/raw/master/screens/Screen3.png "screenshot 3")
+![alt text](https://raw.githubusercontent.com/Flowx08/GeometricRain/master/screens/Screen1.jpg "screenshot 1")
+![alt text](https://raw.githubusercontent.com/Flowx08/GeometricRain/master/screens/Screen2.jpg "screenshot 2")
+![alt text](https://raw.githubusercontent.com/Flowx08/GeometricRain/master/screens/Screen3.jpg "screenshot 3")
 
 # Compile and run
 You need to install the SFML library to compile the code. On ubuntu you can install it with this terminal command:
